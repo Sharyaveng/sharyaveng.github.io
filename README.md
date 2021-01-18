@@ -1,4 +1,4 @@
-## Welcome to Sharyaveng's homepage
+## Some words to my future friends
 
 Hi, there!
 
