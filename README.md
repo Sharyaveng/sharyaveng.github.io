@@ -2,7 +2,7 @@
 
 Hi, there!
 
-I am Sharyaveng, and you can call me *yaveng*, though my name is Jiafeng Xia. 
+I am Sharyaveng, and you can call me *yaveng*. 
 
 Thank you for viewing my homepage, and if you have some problems or some suggestions, please feel free to contact me via **19110240021@fudan.edu.cn**. 
 
