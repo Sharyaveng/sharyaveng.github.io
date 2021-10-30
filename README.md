@@ -9,3 +9,7 @@ Thank you for viewing my homepage, and if you have some problems or some suggest
 You can also find me in **Cooperative Information and Systems Lab (CISL)**, Interdisciplinary Building 2, Jiangwan Campus, Fudan University, No.2005 Songhu Road, Yangpu District, Shanghai 200438, China.
 
 Want to know more about me? I'll show you soon.
+
+## About me
+
+![Photo](pic/photo.jpg)
