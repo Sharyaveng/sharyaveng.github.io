@@ -12,7 +12,7 @@ Want to know more about me? I'll show you soon.
 
 ## About me
 
-<table stylr="border:0">
+<table style="border:0">
 <tr>
   <td><img src='pic/photo.jpg' width='30%'></td><td></td>
 </tr>
