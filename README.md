@@ -12,4 +12,8 @@ Want to know more about me? I'll show you soon.
 
 ## About me
 
-![Photo](pic/photo.jpg)
+<table stylr="border:0">
+<tr>
+  <td><img src='pic/photo.jpg' width='30%'></td><td></td>
+</tr>
+</table>
