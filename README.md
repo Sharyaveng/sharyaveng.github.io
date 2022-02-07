@@ -1,4 +1,4 @@
-<table frame=void rules=“none”>
+<table>
   <tr>
     <td align='center' style="background-color:#FFFFFF">
       <img src='pic/photo.jpg' style="zoom:25%;border-radius:100px;">
