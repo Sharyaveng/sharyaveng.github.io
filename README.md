@@ -1,4 +1,15 @@
-<table frame=void rules=“none”><tr ><td align='center' style="background-color:#FFFFFF"><img src='pic/photo.jpg' style="zoom:25%;border-radius:100px;"></td><td><div  style='font-size:50px'>Sharyaveng (夏 家峰)</div><br><div style='font-size:16px'>📧&nbsp;&nbsp;&nbsp;jfxia19@fudan.edu.cn<br>🏢 &nbsp;&nbsp;A2008, Interdisciplinary Building 2, Jiangwan Campus, Fudan University.</div></td></tr></table>
+<table frame=void rules=“none”>
+  <tr>
+    <td align='center' style="background-color:#FFFFFF">
+      <img src='pic/photo.jpg' style="zoom:25%;border-radius:100px;">
+    </td>
+    <td>
+      <div  style='font-size:50px'>Sharyaveng (夏 家峰)</div>
+      <br>
+      <div style='font-size:16px'>📧&nbsp;&nbsp;&nbsp;jfxia19@fudan.edu.cn<br>🏢 &nbsp;&nbsp;A2008, Interdisciplinary Building 2, Jiangwan Campus, Fudan University.</div>
+    </td>
+  </tr>
+</table>
 
 Hi, there! I am Sharyaveng, and you can call me *yaveng*. 
 
