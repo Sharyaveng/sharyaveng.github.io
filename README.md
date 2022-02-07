@@ -42,5 +42,4 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 * Born in Shaoxing (Keqiao district), Zhejiang Province.
 * Languages: Chinese, English.
-
 * My hope: I can make machine more intelligent and create a more  wonderful life in the seen future.
