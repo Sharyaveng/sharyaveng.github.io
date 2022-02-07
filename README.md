@@ -1,5 +1,5 @@
 <html><body>
-<table frame=void rules="none" border="0px">
+<table frame=void rules="none" border=0>
   <tr>
     <td align='center' style="background-color:#FFFFFF">
       <img src='pic/photo.jpg' style="zoom:25%;border-radius:100px;">
