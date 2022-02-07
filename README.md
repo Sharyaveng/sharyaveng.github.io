@@ -1,3 +1,4 @@
+<html><body>
 <table>
   <tr>
     <td align='center' style="background-color:#FFFFFF">
@@ -10,6 +11,7 @@
     </td>
   </tr>
 </table>
+</body></html>
 
 Hi, there! I am Sharyaveng, and you can call me *yaveng*. 
 
