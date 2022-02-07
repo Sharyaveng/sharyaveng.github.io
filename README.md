@@ -1,5 +1,5 @@
 <html><body>
-<table frame=void rules=“none”>
+<table frame="void" rules="none">
   <tr>
     <td align='center' style="background-color:#FFFFFF">
       <img src='pic/photo.jpg' style="zoom:25%;border-radius:100px;">
@@ -23,11 +23,11 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 ## Publications
 
-* **FIRE: Fast Incremental Recommendation with Graph Signal Processing**
-  Jiafeng Xia, Dongsheng Li, Hansu Gu, Jiahao Liu, Tun Lu and Ning Gu. 
+* **FIRE: Fast Incremental Recommendation with Graph Signal Processing**\\
+  Jiafeng Xia, Dongsheng Li, Hansu Gu, Jiahao Liu, Tun Lu and Ning Gu.\\ 
   The Web Conference (WWW). 2022 
-* **Incremental Graph Convolutional Network for Collaborative Filtering**
-  Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang and Ning Gu. 
+* **Incremental Graph Convolutional Network for Collaborative Filtering**\\
+  Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang and Ning Gu. \\
   The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021 
 
 
