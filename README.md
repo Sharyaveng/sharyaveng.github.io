@@ -1,7 +1,7 @@
 <html><body>
 <table frame=void rules="none">
   <tr>
-    <td align='center' style="background-color:#FFFFFF">
+    <td align='center' style="background-color:#FFFFFFFF">
       <img src='pic/photo.jpg' style="zoom:25%;border-radius:100px;">
     </td>
     <td>
