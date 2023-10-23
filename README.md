@@ -29,15 +29,16 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 
 ## Publications
-* **Neural Kalman Filtering for Robust Temporal Recommendation** (Coming Soon)\
+* **Neural Kalman Filtering for Robust Temporal Recommendation** [Paper (Coming soon)]()|[Code (Coming Soon)]()\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
-* **FIRE: Fast Incremental Recommendation with Graph Signal Processing**\
+* **FIRE: Fast Incremental Recommendation with Graph Signal Processing** [Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512108)|[Code](https://dl.acm.org/doi/abs/10.1145/3485447.3512108)\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Jiahao Liu, Tun Lu and Ning Gu.\
   The Web Conference (WWW). 2022 
-* **Incremental Graph Convolutional Network for Collaborative Filtering**\
+* **Incremental Graph Convolutional Network for Collaborative Filtering** [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482354)\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang and Ning Gu.\
-  The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021 
+  The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021
+  
 
 
 ## Skills
