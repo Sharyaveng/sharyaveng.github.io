@@ -19,10 +19,16 @@ I am a fifth-year computer science Ph.D. student in Fudan university. My current
 
 If you have some problems or some suggestions, please feel free to contact me via the above email address. You can also find me in **Cooperative Information and Systems Lab (CISL)**, Interdisciplinary Building 2, Jiangwan Campus, Fudan University, No.2005 Songhu Road, Yangpu District, Shanghai 200438, China.
 
+## Eudcations
+* 2019.09 ~ Present, School of Computer Science, Fudan University.
+  * Research interests: Graph Neural Networks, Recommender Systems.
+  * Advised by Prof. Ning Gu and Dr. Dongsheng Li.
+* 2015.09 ~ 2019.06, Jianxing Honors College, Zhejiang University of Technology.
+  * B.Eng. in software engineering.
+  * Advised by Prof. Jing Fan.
 
 
 ## Publications
-
 * **Neural Kalman Filtering for Robust Temporal Recommendation** (Coming Soon)\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
@@ -34,28 +40,30 @@ If you have some problems or some suggestions, please feel free to contact me vi
   The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021 
 
 
+## Skills
+* Nature Languages:
+  * Chinese
+  * English (IELTS: 6.5)
+ 
+* Program Languages:
+  * Python, Java, C++, C, MySQL
 
-## Eudcations
-
-* 2019.09 ~ Now, School of Computer Science, Fudan University.
-  * Research interests: Graph Neural Networks, Recommender Systems.
-  * Advised by Prof. Ning Gu and Dr. Dongsheng Li.
-* 2015.09 ~ 2019.06, Jianxing Honors College, Zhejiang University of Technology.
-  * B.Eng. in software engineering.
-  * Advised by Prof. Jing Fan.
+* Deep Learning Frameworks:
+  * Pytorch, 
 
 
 
 ## Honors
+* Outstanding Students of Fudan University, Shanghai, 2023
+* Outstanding Students of Fudan University, Shanghai, 2022
+* Zhejiang Provincial Excellent Student, Zhejiang, 2019
+* Zhejiang Government Scholarship, Zhejiang, 2018
+* The honorable mention of Mathematical Contest In Modeling, USA, 2018
+* Zhejiang Government Scholarship, Zhejiang, 2017
+* The national first prize of China Undergraduate Mathematical Contest in Modeling, China, 2017
 
-* Zhejiang Provincial Excellent Undergradute Student, Zhejiang Province, 2019.06
-* Zhejiang Government Scholarship, Zhejiang Province, 2018.10
-* Zhejiang Government Scholarship, Zhejiang Province, 2017.10
 
 
-
-## More About Yaveng
-
+## More About ME
 * Born in Shaoxing (Keqiao district), Zhejiang Province.
-* Languages: Chinese, English.
 * My hope: I can make machine more intelligent and create a more  wonderful life in the seen future.
