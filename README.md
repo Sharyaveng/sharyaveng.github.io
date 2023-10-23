@@ -15,7 +15,7 @@
 
 Hi, there! I am Sharyaveng, and you can call me *yaveng*. 
 
-I am a third-year computer science Ph.D. student in Fudan university. My current research field is graph neural network based recommender systems.
+I am a fifth-year computer science Ph.D. student in Fudan university. My current research field is graph neural network based recommender systems and graph signal processing based recommender systems.
 
 If you have some problems or some suggestions, please feel free to contact me via the above email address. You can also find me in **Cooperative Information and Systems Lab (CISL)**, Interdisciplinary Building 2, Jiangwan Campus, Fudan University, No.2005 Songhu Road, Yangpu District, Shanghai 200438, China.
 
@@ -23,6 +23,9 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 ## Publications
 
+* **Neural Kalman Filtering for Robust Temporal Recommendation** (Coming Soon)\
+  Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
+  The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
 * **FIRE: Fast Incremental Recommendation with Graph Signal Processing**\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Jiahao Liu, Tun Lu and Ning Gu.\
   The Web Conference (WWW). 2022 
