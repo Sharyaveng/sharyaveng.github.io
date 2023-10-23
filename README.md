@@ -49,7 +49,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
   * Python, Java, C++, C, MySQL
 
 * Deep Learning Frameworks:
-  * Pytorch, 
+  * Pytorch, Tensorflow
 
 
 
