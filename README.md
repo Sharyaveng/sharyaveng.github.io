@@ -44,7 +44,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
 ## Skills
 * Nature Languages:
   * Chinese
-  * English (IELTS: 6.5)
+  * English
  
 * Program Languages:
   * Python, Java, C++, C, MySQL
