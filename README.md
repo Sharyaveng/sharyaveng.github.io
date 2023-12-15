@@ -29,7 +29,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 
 ## Publications
-* **Neural Kalman Filtering for Robust Temporal Recommendation** [Paper (Coming soon)]()|[Code (Coming Soon)]()\
+* **Neural Kalman Filtering for Robust Temporal Recommendation** [Paper (Coming soon)]()|[Code](https://github.com/Yaveng/NeuFilter)\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
 * **FIRE: Fast Incremental Recommendation with Graph Signal Processing** [Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512108)|[Code](https://dl.acm.org/doi/abs/10.1145/3485447.3512108)\
