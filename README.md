@@ -29,6 +29,9 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 
 ## Publications
+* **Hierarchical Graph Signal Processing for Collaborative Filtering** [Paper (Coming soon)]()|[Code (Coming soon)]()\
+  Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
+  The Web Conference (WWW). 2024 
 * **Neural Kalman Filtering for Robust Temporal Recommendation** [Paper (Coming soon)]()|[Code](https://github.com/Yaveng/NeuFilter)\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
