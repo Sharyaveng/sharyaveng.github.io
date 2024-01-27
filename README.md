@@ -46,8 +46,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 ## Skills
 * Nature Languages:
-  * Chinese
-  * English
+  * Chinese, English
  
 * Program Languages:
   * Python, Java, C++, C, MySQL
@@ -65,9 +64,3 @@ If you have some problems or some suggestions, please feel free to contact me vi
 * The honorable mention of Mathematical Contest In Modeling, USA, 2018
 * Zhejiang Government Scholarship, Zhejiang, 2017
 * The national first prize of China Undergraduate Mathematical Contest in Modeling, China, 2017
-
-
-
-## More About ME
-* Born in Shaoxing (Keqiao district), Zhejiang Province.
-* My hope: I can make machine more intelligent and create a more  wonderful life in the seen future.
