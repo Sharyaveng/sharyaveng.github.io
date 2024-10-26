@@ -34,15 +34,19 @@ If you have some problems or some suggestions, please feel free to contact me vi
 * **Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation**\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The 18th ACM International Conference on Web Search and Data Mining (WSDM). 2025
+  
 * **Hierarchical Graph Signal Processing for Collaborative Filtering** [Paper](https://dl.acm.org/doi/10.1145/3589334.3645368)|[Code](https://github.com/Yaveng/HiGSP)\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
-  The Web Conference (WWW). 2024 
+  The Web Conference (WWW). 2024
+  
 * **Neural Kalman Filtering for Robust Temporal Recommendation** [Paper](https://dl.acm.org/doi/10.1145/3616855.3635837)|[Code](https://github.com/Yaveng/NeuFilter)\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The 17th ACM International Conference on Web Search and Data Mining (WSDM). 2024
+  
 * **FIRE: Fast Incremental Recommendation with Graph Signal Processing** [Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512108)|[Code](https://github.com/Yaveng/FIRE)\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Jiahao Liu, Tun Lu and Ning Gu.\
-  The Web Conference (WWW). 2022 
+  The Web Conference (WWW). 2022
+  
 * **Incremental Graph Convolutional Network for Collaborative Filtering** [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482354)\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang and Ning Gu.\
   The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021
