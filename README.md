@@ -8,7 +8,7 @@
     <td>
       <div  style='font-size:50px'>Sharyaveng (夏 家峰)</div>
       <br>
-      <div style='font-size:16px'>📧&nbsp;&nbsp;&nbsp;jfxia19@fudan.edu.cn<br>🏢 &nbsp;&nbsp;A2008, Interdisciplinary Building 2, Jiangwan Campus, Fudan University.</div>
+      <div style='font-size:16px'>📧&nbsp;&nbsp;&nbsp;jfxia19@fudan.edu.cn<br>🏢 &nbsp;&nbsp;A2008, Interdisciplinary Building 2, Jiangwan Campus, Fudan University.🔗&nbsp;&nbsp;&nbsp;https://github.com/Yaveng</div>
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
   The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021
 
 ## Publications II (Pre-print)
-* GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering\
+* **GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering**\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu and Ning Gu.\
   arXiv preprint arXiv:2408.05792
   
