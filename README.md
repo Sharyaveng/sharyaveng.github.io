@@ -53,13 +53,13 @@ If you have some problems or some suggestions, please feel free to contact me vi
   The 30th ACM International Conference on Information and Knowledge Management (CIKM). 2021
 
 ## Publications II (Pre-print)
-* **Frequency-aware Graph Signal Processing for Collaborative Filtering**\
-  **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
-  arXiv preprint arXiv:2402.08426
-
 * GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu and Ning Gu.\
   arXiv preprint arXiv:2408.05792
+  
+* **Frequency-aware Graph Signal Processing for Collaborative Filtering**\
+  **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
+  arXiv preprint arXiv:2402.08426
 
 
 ## Skills
