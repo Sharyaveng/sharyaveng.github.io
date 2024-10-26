@@ -75,6 +75,6 @@ If you have some problems or some suggestions, please feel free to contact me vi
 * Outstanding Students of Fudan University, Shanghai, 2022
 * Zhejiang Provincial Excellent Student, Zhejiang, 2019
 * Zhejiang Government Scholarship, Zhejiang, 2018
-* The honorable mention of Mathematical Contest In Modeling, USA, 2018
+* The Honorable Mention of Mathematical Contest In Modeling, USA, 2018
 * Zhejiang Government Scholarship, Zhejiang, 2017
-* The national first prize of China Undergraduate Mathematical Contest in Modeling, China, 2017
+* The National First Prize of China Undergraduate Mathematical Contest in Modeling, China, 2017
