@@ -29,6 +29,9 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 
 ## Publications
+* **Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation**
+  Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
+  The 18th ACM International Conference on Web Search and Data Mining (WSDM). 2025
 * **Hierarchical Graph Signal Processing for Collaborative Filtering** [Paper](https://dl.acm.org/doi/10.1145/3589334.3645368)|[Code](https://github.com/Yaveng/HiGSP)\
   Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The Web Conference (WWW). 2024 
