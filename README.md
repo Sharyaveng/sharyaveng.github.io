@@ -65,10 +65,8 @@ If you have some problems or some suggestions, please feel free to contact me vi
 ## Skills
 * Nature Languages:
   * Chinese, English
-* Program Languages:
-  * Python, Java, C++, C, MySQL
-* Deep Learning Frameworks:
-  * Pytorch, Tensorflow
+* Program Languages & Deep Learning Frameworks:
+  * Python, Java, C++, C, Pytorch, Tensorflow
 
 ## Honors
 * Outstanding Students of Fudan University, Shanghai, 2023
