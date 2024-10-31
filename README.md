@@ -28,7 +28,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
  
 * 2015.09 ~ 2019.06, Jianxing Honors College, Zhejiang University of Technology.
   * B.Eng. in software engineering.
-  * Advised by Prof. Jing Fan.
+  * Advised by [Prof. Jing Fan](https://homepage.zjut.edu.cn/fj2/).
 
 
 ## Publications I (Published)
