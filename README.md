@@ -23,7 +23,8 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 ## Eudcations
 * 2019.09 ~ Present, School of Computer Science, Fudan University.
-  * Research interests: Graph Neural Networks, Recommender Systems.
+  * Ph.D. student in software engineering.
+  * Research interests: Machine Learning, Graph Neural Networks, Graph Signal Processing, Recommender Systems.
   * Advised by [Prof. Ning Gu](https://cscw.fudan.edu.cn/ninggu/list.htm) and [Dr. Dongsheng Li](https://recmind.cn).
  
 * 2015.09 ~ 2019.06, Jianxing Honors College, Zhejiang University of Technology.
