@@ -33,6 +33,11 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 
 ## Publications I (Published)
+* **Frequency-aware Graph Signal Processing for Collaborative Filtering**\
+  **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
+  The Web Conference (WWW). 2025  (Short Paper^[1])
+  
+
 * **Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation**\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The 18th ACM International Conference on Web Search and Data Mining (WSDM). 2025
@@ -58,9 +63,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu and Ning Gu.\
   arXiv preprint arXiv:2408.05792
   
-* **Frequency-aware Graph Signal Processing for Collaborative Filtering**\
-  **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
-  arXiv preprint arXiv:2402.08426
+
 
 
 ## Skills
@@ -77,3 +80,5 @@ If you have some problems or some suggestions, please feel free to contact me vi
 * The Honorable Mention of Mathematical Contest In Modeling, USA, 2018
 * Zhejiang Provincial Government Scholarship, Zhejiang, 2017
 * The National First Prize of China Undergraduate Mathematical Contest in Modeling, China, 2017
+
+^[1]: For completed version, please refer to [FaGSP (arXiv)](https://arxiv.org/abs/2402.08426).
