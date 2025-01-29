@@ -19,7 +19,7 @@ Hi, there! I am Sharyaveng, and you can call me *yaveng*.
 
 My current research field is graph neural network based recommender systems and graph signal processing based recommender systems.
 
-If you have some problems or some suggestions, please feel free to contact me via the above email address. You can also find me in **Cooperative Information and Systems Lab (CISL)**, Interdisciplinary Building 2, Jiangwan Campus, Fudan University, No.2005 Songhu Road, Yangpu District, Shanghai 200438, China.
+If you have some problems or some suggestions, please feel free to contact me via the above email address. 
 
 ## Eudcations
 * 2019.09 ~ 2024.12, School of Computer Science, Fudan University.
