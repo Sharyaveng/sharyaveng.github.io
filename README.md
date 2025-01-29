@@ -22,7 +22,7 @@ My current research field is graph neural network based recommender systems and 
 If you have some problems or some suggestions, please feel free to contact me via the above email address. You can also find me in **Cooperative Information and Systems Lab (CISL)**, Interdisciplinary Building 2, Jiangwan Campus, Fudan University, No.2005 Songhu Road, Yangpu District, Shanghai 200438, China.
 
 ## Eudcations
-* 2019.09 ~ 2025.12, School of Computer Science, Fudan University.
+* 2019.09 ~ 2024.12, School of Computer Science, Fudan University.
   * Ph.D. in software engineering.
   * Research interests: Machine Learning, Graph Neural Networks, Graph Signal Processing, Recommender Systems.
   * Advised by [Prof. Ning Gu](https://cscw.fudan.edu.cn/ninggu/list.htm) and [Dr. Dongsheng Li](https://recmind.cn).
