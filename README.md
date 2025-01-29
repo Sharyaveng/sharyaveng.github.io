@@ -8,7 +8,7 @@
     <td>
       <div  style='font-size:50px'>Sharyaveng (夏 家峰)</div>
       <br>
-      <div style='font-size:16px'>📧&nbsp;&nbsp;&nbsp;jfxia19@fudan.edu.cn<br>🏢 &nbsp;&nbsp;A2008, Interdisciplinary Building 2, Jiangwan Campus, Fudan University.<br>🔗&nbsp;&nbsp;&nbsp;https://github.com/Yaveng</div>
+      <div style='font-size:16px'>📧&nbsp;&nbsp;&nbsp;jfxia19@fudan.edu.cn<br><!--🏢 &nbsp;&nbsp;A2008, Interdisciplinary Building 2, Jiangwan Campus, Fudan University.<br>-->🔗&nbsp;&nbsp;&nbsp;https://github.com/Yaveng</div>
     </td>
   </tr>
 </table>
