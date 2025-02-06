@@ -62,9 +62,11 @@ If you have some problems or some suggestions, please feel free to contact me vi
 * **GraphTransfer: A Generic Feature Fusion Framework for Collaborative Filtering**\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu and Ning Gu.\
   arXiv preprint arXiv:2408.05792
+
+
+## Academic Services
+* As a reviewer: The Web Conference 2025.
   
-
-
 
 ## Skills
 * Nature Languages:
