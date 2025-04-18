@@ -33,6 +33,10 @@ If you have some problems or some suggestions, please feel free to contact me vi
 
 
 ## Publications I (Published)
+* **FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation**\
+  Mingzhe Han, Dongsheng Li, **Jiafeng Xia**, Jiahao Liu, Hansu Gu, Peng Zhang, Ning Gu and Tun Lu.\
+  The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR). 2025
+  
 * **Frequency-aware Graph Signal Processing for Collaborative Filtering**\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The Web Conference (WWW). 2025  (Short Paper[^1])
