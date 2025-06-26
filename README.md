@@ -17,14 +17,13 @@
 
 Hi, there! I am Sharyaveng, and you can call me *yaveng*. 
 
-My current research field is graph neural network based recommender systems and graph signal processing based recommender systems.
+My current research field is large language models, recommender systems, collaborative filtering, graph neural networks, graph signal processing.
 
 If you have some problems or some suggestions, please feel free to contact me via the above email address. 
 
 ## Eudcations
 * 2019.09 ~ 2024.12, School of Computer Science, Fudan University.
   * Ph.D. in software engineering.
-  * Research interests: Machine Learning, Graph Neural Networks, Graph Signal Processing, Recommender Systems.
   * Advised by [Prof. Ning Gu](https://cscw.fudan.edu.cn/ninggu/list.htm) and [Dr. Dongsheng Li](https://recmind.cn).
  
 * 2015.09 ~ 2019.06, Jianxing Honors College, Zhejiang University of Technology.
@@ -40,7 +39,6 @@ If you have some problems or some suggestions, please feel free to contact me vi
 * **Frequency-aware Graph Signal Processing for Collaborative Filtering**\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
   The Web Conference (WWW). 2025  (Short Paper[^1])
-  
 
 * **Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation**\
   **Jiafeng Xia**, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Li Shang and Ning Gu.\
@@ -79,6 +77,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
   * Python, Java, C++, C, Pytorch, Tensorflow
 
 ## Honors
+* Fudan University Excellent Student, Shanghai, 2024
 * Outstanding Students of Fudan University, Shanghai, 2023
 * Outstanding Students of Fudan University, Shanghai, 2022
 * Zhejiang Provincial Excellent Student, Zhejiang, 2019
