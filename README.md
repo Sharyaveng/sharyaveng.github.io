@@ -17,7 +17,7 @@
 
 Hi, there! I am Sharyaveng, and you can call me *yaveng*. 
 
-My current research field is large language models, recommender systems, collaborative filtering, graph neural networks, graph signal processing.
+My current research field are including but not limited to large language models, recommender systems, collaborative filtering, graph neural networks, graph signal processing.
 
 If you have some problems or some suggestions, please feel free to contact me via the above email address. 
 
