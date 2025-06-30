@@ -25,7 +25,7 @@ If you have some problems or some suggestions, please feel free to contact me vi
 * 2025.01 ~ now, ByteDance
   * Algorithm Engineer.
 
-## Eudcations
+## Educations
 * 2019.09 ~ 2024.12, School of Computer Science, Fudan University.
   * Ph.D. in software engineering.
   * Advised by [Prof. Ning Gu](https://cscw.fudan.edu.cn/ninggu/list.htm) and [Dr. Dongsheng Li](https://recmind.cn).
