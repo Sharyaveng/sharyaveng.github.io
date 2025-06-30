@@ -21,6 +21,10 @@ My current research fields are including but not limited to large language model
 
 If you have some problems or some suggestions, please feel free to contact me via the above email address. 
 
+## Working Experience
+* 2025.01 ~ now, ByteDance
+  * Algorithm Engineer.
+
 ## Eudcations
 * 2019.09 ~ 2024.12, School of Computer Science, Fudan University.
   * Ph.D. in software engineering.
